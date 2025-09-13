@@ -1,7 +1,6 @@
 import streamlit as st
 st.title('MJ네')
 st.write('MJ made it')
-import streamlit as st
 import random
 import time
 from datetime import datetime
