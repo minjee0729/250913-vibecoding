@@ -1,9 +1,6 @@
 import streamlit as st
 st.title('MJ네')
 st.write('MJ made it')
-import random
-import time
-from datetime import datetime
 
 # ---------------------------
 # Page setup
