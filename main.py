@@ -7,7 +7,7 @@ from datetime import datetime
 # Page setup
 # ---------------------------
 st.set_page_config(
-    page_title="MBTI Study Coach ✨",
+    page_title="MJ네 MBTI Study Coach ✨",
     page_icon="🧠",
     layout="wide",
 )
