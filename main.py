@@ -1,6 +1,7 @@
 import streamlit as st
-st.title('MJ네')
-st.write('MJ made it')
+import random
+import time
+from datetime import datetime
 
 # ---------------------------
 # Page setup
@@ -396,4 +397,4 @@ if msg:
             "목표를 ‘행동’으로: 동사로 시작하는 한 줄! ✍️",
         ]
         st.write(random.choice(reply_bank))
-        st.markdown("_응원 이모지 팡팡!
+        st.markdown("_응원 이모지 팡팡!_ 🥳🙌✨💪")
